@@ -1,7 +1,8 @@
 # Background-Remover
-# Image Comparison Slider
-
 An interactive Image Comparison Slider built with HTML, CSS, and JavaScript.
+
+## 🚀Live Demo
+https://anithakupppusamy.github.io/Background-Remover/
 
 Users can move the slider horizontally to compare two versions of an image before and after.
 
@@ -26,7 +27,7 @@ Move the slider left or right to reveal the original image.
 ## 📁 Project Structure
 
 ```text
-Image-Comparison-Slider/
+Background-Remover/
 │
 ├── index.html
 ├── style.css
@@ -50,7 +51,7 @@ Image-Comparison-Slider/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/anithakuppusamy/anithakuppusamy.git
 ```
 
 ### Open the Project
